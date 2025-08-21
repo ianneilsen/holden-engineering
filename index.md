@@ -58,3 +58,6 @@
 - [Addenda](Addenda.md)
 - [Tips Part 2](Tips_Part_2.md)
 - [snarlyjohn@gmail.com](snarlyjohngmailcom.md)
+
+- waybackmachine link
+https://web.archive.org/web/*/oldjohnno.id.au*
